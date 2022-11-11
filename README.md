@@ -1,5 +1,5 @@
 # portfolio
-<img width="944" alt="image" src="https://user-images.githubusercontent.com/89032612/201315861-bb6080ed-bb7b-4e4d-a7cb-ff221808475d.png">
+<img width="946" alt="image" src="https://user-images.githubusercontent.com/89032612/201318214-dd02bd8d-1fe1-42da-9c78-deadc2342a1d.png">
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/68521f38-b8a9-407a-ac04-199c55a215b5/deploy-status)](https://app.netlify.com/sites/shivam-portfoli/deploys)
